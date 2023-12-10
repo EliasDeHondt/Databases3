@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CountryList>
+	<country co_name=""Åland Islands"" sc=""AX"" lc=""ALA"">
+		<city ci_name=""Åva"" city_id=""a1q1OyCIQWyrO6fy/bxGUg=="" post=""22940"">
+			<geo>
+				<lat>6.045880000000000e+001</lat>
+				<long>2.116070000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Brändö"" city_id=""kISpXlaKSwaWwcPNTQgrkQ=="" post=""22920"">
+			<geo>
+				<lat>6.041380000000000e+001</lat>
+				<long>2.103900000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Eckerö"" city_id=""M7oOKJrwRC6v6ygm3Kv2sA=="" post=""22270"">
+			<geo>
+				<lat>6.022030000000000e+001</lat>
+				<long>1.962630000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Emkarby"" city_id=""Xu/2vN60Rsm9SPbyxGktDQ=="" post=""22220"">
+			<geo>
+				<lat>6.023940000000000e+001</lat>
+				<long>1.984800000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Enklinge"" city_id=""cyvtCoemTG6yQPa6WTLNjg=="" post=""22830"">
+			<geo>
+				<lat>6.033490000000000e+001</lat>
+				<long>2.075800000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Fiskö"" city_id=""Wowg7BMVQ7+olTfyK6+vLw=="" post=""22930"">
+			<geo>
+				<lat>6.045250000000000e+001</lat>
+				<long>2.106950000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Föglö"" city_id=""VOgQPgr6QHCQQsNEGEjp1w=="" post=""22710"">
+			<geo>
+				<lat>6.003160000000000e+001</lat>
+				<long>2.046050000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Geta"" city_id=""pfcFCYI4Qde2Hj3WCqH/fg=="" post=""22340"">
+			<geo>
+				<lat>6.037910000000000e+001</lat>
+				<long>1.988780000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Godby"" city_id=""JqYygSRFSJKoLjw3CnPnLg=="" post=""22410"">
+			<geo>
+				<lat>6.022940000000000e+001</lat>
+				<long>1.998200000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Godby"" city_id=""GfwNYtlYRY2BUk8+XFzC9w=="" post=""22411"">
+			<geo>
+				<lat>6.022350000000000e+001</lat>
+				<long>1.997940000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Gottby"" city_id=""goubidb5RA6TKlrNBrQqkg=="" post=""22130"">
+			<geo>
+				<lat>6.012530000000000e+001</lat>
+				<long>1.982850000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Hammarland"" city_id=""qValoqu6S4yqRf97nqIvdQ=="" post=""22240"">
+			<geo>
+				<lat>6.022860000000000e+001</lat>
+				<long>1.973960000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Jomala"" city_id=""e4Bd6nILR76DnJMnxbDkaQ=="" post=""22150"">
+			<geo>
+				<lat>6.016170000000000e+001</lat>
+				<long>1.996020000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Jomala"" city_id=""Dp0OFH3xRdm9v0t7ukPfuA=="" post=""22151"">
+			<geo>
+				<lat>6.014970000000000e+001</lat>
+				<long>1.995210000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Jurmo"" city_id=""igI4+//QTh2Md5Agow/1hA=="" post=""22950"">
+			<geo>
+				<lat>6.051960000000000e+001</lat>
+				<long>2.107170000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Kastelholm"" city_id=""b/jpEVODTCm29ZS0fbc3Wg=="" post=""22520"">
+			<geo>
+				<lat>6.023830000000000e+001</lat>
+				<long>2.010130000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Kökar"" city_id=""aYmZN3zWSReKopkznEyEhA=="" post=""22730"">
+			<geo>
+				<lat>5.993450000000000e+001</lat>
+				<long>2.092980000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Kumlinge"" city_id=""CsqWzwwvRjushmg6naWZnA=="" post=""22820"">
+			<geo>
+				<lat>6.026100000000000e+001</lat>
+				<long>2.079340000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Lappo"" city_id=""Z6mHMB7uTaeGiOkrMJA3nQ=="" post=""22840"">
+			<geo>
+				<lat>6.031070000000000e+001</lat>
+				<long>2.098950000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Lemland"" city_id=""2yuqD9FUQB2F5QaRdJrUoQ=="" post=""22610"">
+			<geo>
+				<lat>6.004910000000000e+001</lat>
+				<long>2.012320000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Lumparland"" city_id=""LCjt+W8ISK68pYbfK+h/gQ=="" post=""22630"">
+			<geo>
+				<lat>6.012040000000000e+001</lat>
+				<long>2.026160000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Mariehamn"" city_id=""NBjAj5olTVOGNqXhje95aA=="" post=""22160"">
+			<geo>
+				<lat>6.003140000000000e+001</lat>
+				<long>2.000360000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Mariehamn"" city_id=""NPxbTcH5SC+xvntpw8FRgw=="" post=""22140"">
+			<geo>
+				<lat>6.011090000000000e+001</lat>
+				<long>1.998980000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Mariehamn"" city_id=""V1xw/WkzRliGdHcb966Tsg=="" post=""22120"">
+			<geo>
+				<lat>6.011410000000000e+001</lat>
+				<long>1.991300000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Mariehamn"" city_id=""pSDpsdAOTPmAKqhg/hfdxA=="" post=""22100"">
+			<geo>
+				<lat>6.010070000000000e+001</lat>
+				<long>1.994380000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Mariehamn"" city_id=""ueLMpaxjS+yrzd2CNw4cxA=="" post=""22101"">
+			<geo>
+				<lat>6.006280000000000e+001</lat>
+				<long>1.995330000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Ödkarby"" city_id=""7/kmKNOsQUSUailUupMFiw=="" post=""22320"">
+			<geo>
+				<lat>6.031620000000000e+001</lat>
+				<long>2.000540000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Pålsböle"" city_id=""hgZdQ6dBQWuFstFaNVkqCw=="" post=""22310"">
+			<geo>
+				<lat>6.027560000000000e+001</lat>
+				<long>1.990570000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Saltvik"" city_id=""eQEypB3zReqYOAY0GEdtaQ=="" post=""22430"">
+			<geo>
+				<lat>6.031460000000000e+001</lat>
+				<long>2.010730000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Seglinge"" city_id=""Sfqo3RLgQAKpa2BhDqqgtw=="" post=""22810"">
+			<geo>
+				<lat>6.020180000000000e+001</lat>
+				<long>2.070980000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Sottunga"" city_id=""tzNDxv+GTcyBQ+LUHCPZoA=="" post=""22720"">
+			<geo>
+				<lat>6.012480000000000e+001</lat>
+				<long>2.067510000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Sund"" city_id=""zekDfCdSTDGp4ZQRqRII1Q=="" post=""22530"">
+			<geo>
+				<lat>6.022750000000000e+001</lat>
+				<long>2.019990000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Tjudö"" city_id=""g7d7XCoMR8+3KNYp2aV3mg=="" post=""22330"">
+			<geo>
+				<lat>6.033980000000000e+001</lat>
+				<long>1.993820000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Torsholma"" city_id=""UOCuwxmWSIqxZQeAPzNXnA=="" post=""22910"">
+			<geo>
+				<lat>6.035560000000000e+001</lat>
+				<long>2.106480000000000e+001</long>
+			</geo>
+		</city>
+		<city ci_name=""Vårdö"" city_id=""jHp0zZptQ6Kl+0IevYv1yw=="" post=""22550"">
+			<geo>
+				<lat>6.026070000000000e+001</lat>
+				<long>2.037250000000000e+001</long>
+			</geo>
+		</city>
+	</country>
+</CountryList>
