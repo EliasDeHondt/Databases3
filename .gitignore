@@ -1,0 +1,20 @@
+# ***************************************
+# *                                     *
+# *   Created by Elias & Kobe           *
+# *   Visit https://eliasdh.com         *
+# *                                     *
+# ***************************************
+# .gitignore
+
+/nosql/MongoDB-Dataset-Country.json
+/nosql/MongoDB-Dataset-City.json
+/nosql/MongoDB-Dataset-Stage.json
+/nosql/MongoDB-Dataset-Treasure.json
+/nosql/Neo4J-Dataset-city.csv
+/nosql/Neo4J-Dataset-city.json
+/nosql/Neo4J-Dataset-country.csv
+/nosql/Neo4J-Dataset-country.json
+/nosql/Neo4J-Dataset-treasure.csv
+/nosql/Neo4J-Dataset-treasure.json
+/nosql/Neo4J-Dataset-user_table.csv
+/nosql/Neo4J-Dataset-user_table.json
