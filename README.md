@@ -1,3 +1,4 @@
+Projects [Databases 3] Second year exercises of training applied computer science at KdG.
 ![database-warehouse-icon](/images/database-warehouse-icon.png)
 # Catchem - TreasureHunt System
 
