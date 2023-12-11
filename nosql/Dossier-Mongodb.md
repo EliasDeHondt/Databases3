@@ -226,6 +226,15 @@
 ![dossier-mongodb-5](/images/dossier-mongodb-5.png)
 ![dossier-mongodb-6](/images/dossier-mongodb-6.png)
 
+### 💾DataSet💾
+```sql
+SELECT TOP (100) * FROM treasure
+JOIN treasure_stages ON treasure.id = treasure_stages.treasure_id
+JOIN stage ON treasure_stages.stages_id = stage.id
+JOIN city ON treasure.city_city_id = city.city_id
+JOIN country ON city.country_code = country.code
+```
+
 ### ❓Naamgevingen❓
 - Configuratieserver (replicaset met 3 leden):
    - `configsvr01`, `configsvr02`, `configsvr03`
