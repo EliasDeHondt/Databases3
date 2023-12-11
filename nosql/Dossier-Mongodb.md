@@ -278,15 +278,15 @@
 ### 📋Onderhoud📋
 - Starten van de cluster
    ```bash
-   docker start configsvr01 configsvr02 configsvr03 shard01-a shard01-b shard01-c shard02-a shard02-b shard02-c shard03-a shard03-b shard03-c router01 router02
+   docker start mongo-config-01 mongo-config-02 mongo-config-03 shard-01-node-a shard-02-node-a shard-03-node-a shard-01-node-b shard-02-node-b shard-03-node-b shard-01-node-c shard-02-node-c shard-03-node-c router-01 router-02
    ```
 - Stoppen van de cluster:
    ```bash
-   docker stop configsvr01 configsvr02 configsvr03 shard01-a shard01-b shard01-c shard02-a shard02-b shard02-c shard03-a shard03-b shard03-c router01 router02
+   docker stop mongo-config-01 mongo-config-02 mongo-config-03 shard-01-node-a shard-02-node-a shard-03-node-a shard-01-node-b shard-02-node-b shard-03-node-b shard-01-node-c shard-02-node-c shard-03-node-c router-01 router-02
    ```
 - Verwijderen van de cluster:
    ```bash
-   docker rm configsvr01 configsvr02 configsvr03 shard01-a shard01-b shard01-c shard02-a shard02-b shard02-c shard03-a shard03-b shard03-c router01 router02
+   docker rm mongo-config-01 mongo-config-02 mongo-config-03 shard-01-node-a shard-02-node-a shard-03-node-a shard-01-node-b shard-02-node-b shard-03-node-b shard-01-node-c shard-02-node-c shard-03-node-c router-01 router-02
    ```
 
 ### ✨Stappen✨
