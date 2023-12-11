@@ -288,6 +288,10 @@
    ```bash
    docker rm mongo-config-01 mongo-config-02 mongo-config-03 shard-01-node-a shard-02-node-a shard-03-node-a shard-01-node-b shard-02-node-b shard-03-node-b shard-01-node-c shard-02-node-c shard-03-node-c router-01 router-02
    ```
+-  Verwijderen van de volumes:
+   ```bash
+   docker volume ls -q -f name='mongodb-cluster-docker-compose*' | xargs -r docker volume rm
+   ```
 
 ### ✨Stappen✨
 
