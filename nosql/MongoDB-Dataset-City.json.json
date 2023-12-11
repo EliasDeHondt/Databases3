@@ -1,0 +1,802 @@
+[
+  {
+    "city_id": "0x00000B50FA304E709A685DDC4DBB0B6D",
+    "city_name": "Kishitacho",
+    "latitude": 34.8359,
+    "longitude": 136.4962,
+    "postal_code": "513-1121",
+    "country_code": "JP"
+  },
+  {
+    "city_id": "0x00003E94C1D64236899D33E7E6F08495",
+    "city_name": "Blansko",
+    "latitude": 49.3667,
+    "longitude": 16.6667,
+    "postal_code": "678 01",
+    "country_code": "CZ"
+  },
+  {
+    "city_id": "0x0000444EFBC847A08497593BC3624E65",
+    "city_name": "Frauendorf",
+    "latitude": 48.3524,
+    "longitude": 15.7819,
+    "postal_code": "3133",
+    "country_code": "AT"
+  },
+  {
+    "city_id": "0x000046739FAF4999BE995A65B5D95208",
+    "city_name": "La Bosse-de-Bretagne",
+    "latitude": 47.8702,
+    "longitude": -1.5988,
+    "postal_code": "35320",
+    "country_code": "FR"
+  },
+  {
+    "city_id": "0x00004AB06E4A4DC594B29478BF0BCA2F",
+    "city_name": "Yoshinomachi",
+    "latitude": 35.35,
+    "longitude": 136.6,
+    "postal_code": "500-8844",
+    "country_code": "JP"
+  },
+  {
+    "city_id": "0x0000607D161B452598AAE905EBB63B33",
+    "city_name": "Василево",
+    "latitude": 57.2356,
+    "longitude": 38.5872,
+    "postal_code": "152636",
+    "country_code": "RU"
+  },
+  {
+    "city_id": "0x00007E93824F41339B9249E70DC459D4",
+    "city_name": "Shiradhon",
+    "latitude": 18.5157,
+    "longitude": 76.1831,
+    "postal_code": "413528",
+    "country_code": "IN"
+  },
+  {
+    "city_id": "0x00009A97B5984E3199061F7EC0127D28",
+    "city_name": "Hacienda los Ayala",
+    "latitude": 25.8037,
+    "longitude": -100.4895,
+    "postal_code": "66072",
+    "country_code": "MX"
+  },
+  {
+    "city_id": "0x0000A26EC3C74060AA2C430F8E86EDE9",
+    "city_name": "Kifune",
+    "latitude": 35.1992,
+    "longitude": 137.2852,
+    "postal_code": "465-0058",
+    "country_code": "JP"
+  },
+  {
+    "city_id": "0x0000BC55B4B5441DBEBBF1E8CEE80315",
+    "city_name": "Korucuk",
+    "latitude": 37.2969,
+    "longitude": 27.9136,
+    "postal_code": "48200",
+    "country_code": "TR"
+  },
+  {
+    "city_id": "0x0000C310D239420FAFCD617BBBFCCE79",
+    "city_name": "Asinara Lazzaretto",
+    "latitude": 40.8338,
+    "longitude": 8.4053,
+    "postal_code": "07046",
+    "country_code": "IT"
+  },
+  {
+    "city_id": "0x0000C6BB5EB94A1BAF3F5CF1B90EE317",
+    "city_name": "Santa Iria de Azóia",
+    "latitude": 38.8188,
+    "longitude": -9.0939,
+    "postal_code": "2690-563",
+    "country_code": "PT"
+  },
+  {
+    "city_id": "0x0000D8F61DD543E3B25BD9432A9FC653",
+    "city_name": "Chanteloup-les-Vignes",
+    "latitude": 48.9761,
+    "longitude": 2.0326,
+    "postal_code": "78570",
+    "country_code": "FR"
+  },
+  {
+    "city_id": "0x0000FAC777ED438CA46093CC07FD7A22",
+    "city_name": "Moyock",
+    "latitude": 36.4871,
+    "longitude": -76.1146,
+    "postal_code": "27958",
+    "country_code": "US"
+  },
+  {
+    "city_id": "0x000140AF633C4FD6A52F134F29E87C29",
+    "city_name": "Griminis",
+    "latitude": 57.4465,
+    "longitude": -7.3401,
+    "postal_code": "HS7",
+    "country_code": "GB"
+  },
+  {
+    "city_id": "0x00014FA9510F4BAD9622C1454C9B4B3A",
+    "city_name": "Wicie",
+    "latitude": 51.8683,
+    "longitude": 21.3268,
+    "postal_code": "08-470",
+    "country_code": "PL"
+  },
+  {
+    "city_id": "0x000152FA5BC145ACB622E938571C7105",
+    "city_name": "Azails",
+    "latitude": 34.6816,
+    "longitude": -1.479,
+    "postal_code": "13080",
+    "country_code": "DZ"
+  },
+  {
+    "city_id": "0x000156A6ECE2418FA2C6F07E37A8506A",
+    "city_name": "Kupowo-Folwark",
+    "latitude": 54.3035,
+    "longitude": 23.0565,
+    "postal_code": "16-411",
+    "country_code": "PL"
+  },
+  {
+    "city_id": "0x000157E28463429689109F05A26FF1E1",
+    "city_name": "Tychów Nowy",
+    "latitude": 51.143,
+    "longitude": 21.0896,
+    "postal_code": "27-200",
+    "country_code": "PL"
+  },
+  {
+    "city_id": "0x000176EC205C4A51991BA1DCA3E9F738",
+    "city_name": "Henley",
+    "latitude": 52.118,
+    "longitude": 1.1503,
+    "postal_code": "IP6",
+    "country_code": "GB"
+  },
+  {
+    "city_id": "0x0001C1CBFCD04CA5BAC52AAAC76D80A9",
+    "city_name": "Chak 229 Rb",
+    "latitude": 31.9032,
+    "longitude": 73.1545,
+    "postal_code": "38001",
+    "country_code": "PK"
+  },
+  {
+    "city_id": "0x0001CEBC1BB3443481951A52E892F19B",
+    "city_name": "Agua Chiquita",
+    "latitude": 19.3958,
+    "longitude": -102.2181,
+    "postal_code": "60495",
+    "country_code": "MX"
+  },
+  {
+    "city_id": "0x0001D0D3BB9447EDA5EC096FD102974F",
+    "city_name": "Los Sabinos",
+    "latitude": 20.3178,
+    "longitude": -103.1386,
+    "postal_code": "45944",
+    "country_code": "MX"
+  },
+  {
+    "city_id": "0x0001D2E6759E4F499C8733A6B568B773",
+    "city_name": "Славени",
+    "latitude": 54.3411,
+    "longitude": 29.5216,
+    "postal_code": "211079",
+    "country_code": "BY"
+  },
+  {
+    "city_id": "0x0001D38D9FF74E178B3DCB902BCB26BB",
+    "city_name": "TIMBO",
+    "latitude": -28.7962,
+    "longitude": -58.8282,
+    "postal_code": "3448",
+    "country_code": "AR"
+  },
+  {
+    "city_id": "0x0001D5F1E5AF48178DB8CE48F14728E8",
+    "city_name": "Старый Мостяк",
+    "latitude": 52.6982,
+    "longitude": 47.414,
+    "postal_code": "433931",
+    "country_code": "RU"
+  },
+  {
+    "city_id": "0x0001EAC535674C6E8D57E4032EBDE158",
+    "city_name": "Saint John",
+    "latitude": 48.9366,
+    "longitude": -99.7648,
+    "postal_code": "58369",
+    "country_code": "US"
+  },
+  {
+    "city_id": "0x0001F59CD72B46649AD88F4BC04F4544",
+    "city_name": "CAÑAS (ABRA MAYO - DPTO. TILCARA)",
+    "latitude": -23.575,
+    "longitude": -65.3583,
+    "postal_code": "4624",
+    "country_code": "AR"
+  },
+  {
+    "city_id": "0x00020EFA46C645819345A8B4DEE8224C",
+    "city_name": "Sielachowskie",
+    "latitude": 53.1809,
+    "longitude": 23.1409,
+    "postal_code": "16-010",
+    "country_code": "PL"
+  },
+  {
+    "city_id": "0x00020FA9CF0B418D8EA888F42600FA7D",
+    "city_name": "Lagran",
+    "latitude": 42.6263,
+    "longitude": -2.5838,
+    "postal_code": "01118",
+    "country_code": "ES"
+  },
+  {
+    "city_id": "0x000212DBC8484516AC4B53BB92247D98",
+    "city_name": "Suwałki",
+    "latitude": 54.1143,
+    "longitude": 22.9448,
+    "postal_code": "16-431",
+    "country_code": "PL"
+  },
+  {
+    "city_id": "0x000225ABC69C42DCA53D2D70A9C0CDE5",
+    "city_name": "Flagstaff",
+    "latitude": 35.1859,
+    "longitude": -111.662,
+    "postal_code": "86001",
+    "country_code": "US"
+  },
+  {
+    "city_id": "0x00022905EF804E779C8E6F5561B39651",
+    "city_name": "Southgate",
+    "latitude": 42.2044,
+    "longitude": -83.1999,
+    "postal_code": "48195",
+    "country_code": "US"
+  },
+  {
+    "city_id": "0x0002348E55A248BFA02F19883AAB89BF",
+    "city_name": "Karapir",
+    "latitude": 39.6794,
+    "longitude": 35.9309,
+    "postal_code": "66300",
+    "country_code": "TR"
+  },
+  {
+    "city_id": "0x000237E8946040378EEE24456E190CE1",
+    "city_name": "Paris 15",
+    "latitude": 48.8412,
+    "longitude": 2.3003,
+    "postal_code": "75718 CEDEX 15",
+    "country_code": "FR"
+  },
+  {
+    "city_id": "0x00025FC6A14E44C2A8F40744E77D831D",
+    "city_name": "Graham",
+    "latitude": 29.9689,
+    "longitude": -82.1226,
+    "postal_code": "32042",
+    "country_code": "US"
+  },
+  {
+    "city_id": "0x00026FAA97994095B09A2B0E57CA380E",
+    "city_name": "Newham",
+    "latitude": 51.5468,
+    "longitude": -0.0096,
+    "postal_code": "E20",
+    "country_code": "GB"
+  },
+  {
+    "city_id": "0x0002746085864870B2C2E2E960299F01",
+    "city_name": "Amadora",
+    "latitude": 38.7538,
+    "longitude": -9.2308,
+    "postal_code": "2650-411",
+    "country_code": "PT"
+  },
+  {
+    "city_id": "0x00027F2DB6BF4B94A9D36A1ED2D2B14C",
+    "city_name": "Horcado",
+    "latitude": 19.0522,
+    "longitude": -101.46,
+    "postal_code": "61670",
+    "country_code": "MX"
+  },
+  {
+    "city_id": "0x00028CD2ED694462A72F269BB1CE5DFA",
+    "city_name": "Горяйстівка (Олешня)",
+    "latitude": 50.4041,
+    "longitude": 34.7372,
+    "postal_code": "42726",
+    "country_code": "UA"
+  },
+  {
+    "city_id": "0x0002A0E7F3E04DAD957E43A887EF138A",
+    "city_name": "Supata",
+    "latitude": 5.061,
+    "longitude": -74.2372,
+    "postal_code": "253660",
+    "country_code": "CO"
+  },
+  {
+    "city_id": "0x0002A9B73151400B82C07428F994CED3",
+    "city_name": "Higashishinzammachi",
+    "latitude": 38.3683,
+    "longitude": 140.2834,
+    "postal_code": "991-0046",
+    "country_code": "JP"
+  },
+  {
+    "city_id": "0x0002AADD5A0F417292A83CC6860F3E27",
+    "city_name": "Horný Jatov",
+    "latitude": 48.1544,
+    "longitude": 17.9607,
+    "postal_code": "925 71",
+    "country_code": "SK"
+  },
+  {
+    "city_id": "0x0002ACF9BCDF4B6E9D0EE8E9FFA12E47",
+    "city_name": "Călăraşi",
+    "latitude": 44.2051,
+    "longitude": 27.3136,
+    "postal_code": "910079",
+    "country_code": "RO"
+  },
+  {
+    "city_id": "0x0002BA81309A4CEAA18FCC14515C87D6",
+    "city_name": "Vierhöfen",
+    "latitude": 53.2667,
+    "longitude": 10.2167,
+    "postal_code": "21444",
+    "country_code": "DE"
+  },
+  {
+    "city_id": "0x0002C79A48A64E918C0910B1CE96B2C9",
+    "city_name": "La Fortuna",
+    "latitude": 10.4666,
+    "longitude": -84.6639,
+    "postal_code": "21007",
+    "country_code": "CR"
+  },
+  {
+    "city_id": "0x0002C8AAF99446F2ADF0C69471D9FF6A",
+    "city_name": "Palma Real",
+    "latitude": 19.2134,
+    "longitude": -99.5974,
+    "postal_code": "52172",
+    "country_code": "MX"
+  },
+  {
+    "city_id": "0x0002DE1F32F64F5CAF8E29A42DB3BC22",
+    "city_name": "Aulnoy-lez-Valenciennes",
+    "latitude": 50.3333,
+    "longitude": 3.5333,
+    "postal_code": "59300",
+    "country_code": "FR"
+  },
+  {
+    "city_id": "0x0002F824AB204D7EA161910E607E0D7B",
+    "city_name": "Pine Lodge",
+    "latitude": -36.4167,
+    "longitude": 145.5,
+    "postal_code": "3631",
+    "country_code": "AU"
+  },
+  {
+    "city_id": "0x0002FBC8D75049489517831D45CAA170",
+    "city_name": "Ex-Hacienda Delicias",
+    "latitude": 28.143,
+    "longitude": -105.8356,
+    "postal_code": "33123",
+    "country_code": "MX"
+  },
+  {
+    "city_id": "0x00030BA3D6F44A0EB50D222D573A6C6F",
+    "city_name": "Nuthampstead",
+    "latitude": 51.9938,
+    "longitude": 0.0483,
+    "postal_code": "SG8",
+    "country_code": "GB"
+  },
+  {
+    "city_id": "0x000314071C8A4D86ADAD76CB8EBFE9AF",
+    "city_name": "Emilio Carranza",
+    "latitude": 25.259,
+    "longitude": -103.9451,
+    "postal_code": "35713",
+    "country_code": "MX"
+  },
+  {
+    "city_id": "0x0003378642D7432F8BCD3859DA0DC115",
+    "city_name": "Ílhavo",
+    "latitude": 40.5999,
+    "longitude": -8.6673,
+    "postal_code": "3830-226",
+    "country_code": "PT"
+  },
+  {
+    "city_id": "0x000353D60D644AAD90B43FF2B3417149",
+    "city_name": "Darpanigarh",
+    "latitude": 19.952,
+    "longitude": 81.8887,
+    "postal_code": "755044",
+    "country_code": "IN"
+  },
+  {
+    "city_id": "0x000354AE017842B487E0C552D9DDD52D",
+    "city_name": "Fort-de-France",
+    "latitude": 14.6089,
+    "longitude": -61.0733,
+    "postal_code": "97201 CEDEX",
+    "country_code": "MQ"
+  },
+  {
+    "city_id": "0x00035C197A78444A89BFE5A1A648F304",
+    "city_name": "Пролетарий",
+    "latitude": 58.4333,
+    "longitude": 31.7,
+    "postal_code": "173530",
+    "country_code": "RU"
+  },
+  {
+    "city_id": "0x00036959997645AB823B25FF2354BF38",
+    "city_name": "Mülheim an der Ruhr",
+    "latitude": 51.4194,
+    "longitude": 6.8937,
+    "postal_code": "45470",
+    "country_code": "DE"
+  },
+  {
+    "city_id": "0x00037E1D47294801AECEB3F792451DD9",
+    "city_name": "Residencial San Agustin 1 Sector",
+    "latitude": 25.6571,
+    "longitude": -100.348,
+    "postal_code": "66260",
+    "country_code": "MX"
+  },
+  {
+    "city_id": "0x000397327BC7467EA30059ACF301AACD",
+    "city_name": "Rioaveso (Santalla)",
+    "latitude": 43.25,
+    "longitude": -7.5,
+    "postal_code": "27377",
+    "country_code": "ES"
+  },
+  {
+    "city_id": "0x0003A0E503944E25868DB7C5A11795EF",
+    "city_name": "Haselsdorfberg",
+    "latitude": 46.9833,
+    "longitude": 15.3333,
+    "postal_code": "8151",
+    "country_code": "AT"
+  },
+  {
+    "city_id": "0x0003AFA41CFC47AD9985EB14001880EB",
+    "city_name": "Lisboa",
+    "latitude": 38.7167,
+    "longitude": -9.1333,
+    "postal_code": "1300-107",
+    "country_code": "PT"
+  },
+  {
+    "city_id": "0x0003B49B433A48C19E338D99C7A9E179",
+    "city_name": "La Colmena",
+    "latitude": 22.0796,
+    "longitude": -100.6167,
+    "postal_code": "79554",
+    "country_code": "MX"
+  },
+  {
+    "city_id": "0x0003B5827BDD43B894526C314AB6EFF7",
+    "city_name": "Мятин",
+    "latitude": 50.6144,
+    "longitude": 25.5278,
+    "postal_code": "35191",
+    "country_code": "UA"
+  },
+  {
+    "city_id": "0x0003C581A85D48BEA634FB77BCD7AF91",
+    "city_name": "Маниківці",
+    "latitude": 49.0354,
+    "longitude": 30.4602,
+    "postal_code": "32244",
+    "country_code": "UA"
+  },
+  {
+    "city_id": "0x00041617CABE497790A1FA46D26B50D4",
+    "city_name": "Helsinki                      ",
+    "latitude": 60.1942,
+    "longitude": 24.9007,
+    "postal_code": "00270",
+    "country_code": "FI"
+  },
+  {
+    "city_id": "0x00041FE08D4A49D5A11C27FAF81D3F15",
+    "city_name": "Marioua",
+    "latitude": 35.6386,
+    "longitude": 0.7807,
+    "postal_code": "48055",
+    "country_code": "DZ"
+  },
+  {
+    "city_id": "0x0004224EF69D417C910DDD07538ADE8F",
+    "city_name": "Limeiras",
+    "latitude": 39.4973,
+    "longitude": -8.3476,
+    "postal_code": "2260-116",
+    "country_code": "PT"
+  },
+  {
+    "city_id": "0x00042D4EE09C4795AF5AB91D4B097A1E",
+    "city_name": "Stockyard",
+    "latitude": -27.6333,
+    "longitude": 152.0667,
+    "postal_code": "4344",
+    "country_code": "AU"
+  },
+  {
+    "city_id": "0x000453CBBFDC422795482CAC1039B046",
+    "city_name": "Bararkap",
+    "latitude": 25.0859,
+    "longitude": 92.7361,
+    "postal_code": "788107",
+    "country_code": "IN"
+  },
+  {
+    "city_id": "0x0004687234994B36BAD674196F19C457",
+    "city_name": "Seki Köy",
+    "latitude": 38.2244,
+    "longitude": 27.9366,
+    "postal_code": "35750",
+    "country_code": "TR"
+  },
+  {
+    "city_id": "0x00046AE54DC34013A9E461335A5D6277",
+    "city_name": "Yazako Karimata",
+    "latitude": 34.7667,
+    "longitude": 137.1712,
+    "postal_code": "480-1103",
+    "country_code": "JP"
+  },
+  {
+    "city_id": "0x00046FEF57CD4441B33A6898EB289FD0",
+    "city_name": "San Miguel Tenejapa",
+    "latitude": 18.5378,
+    "longitude": -96.8108,
+    "postal_code": "95085",
+    "country_code": "MX"
+  },
+  {
+    "city_id": "0x00048E815E1E416BA3745BE5BA902305",
+    "city_name": "Maehibocho Midorigaoka",
+    "latitude": 35.0184,
+    "longitude": 137.1045,
+    "postal_code": "483-8334",
+    "country_code": "JP"
+  },
+  {
+    "city_id": "0x000491159B224EAA8BEB37D14F5890DC",
+    "city_name": "Santiago do Bougado",
+    "latitude": 41.3016,
+    "longitude": -8.5498,
+    "postal_code": "4785-523",
+    "country_code": "PT"
+  },
+  {
+    "city_id": "0x0004933FECE846B39B4FBBEADD73958D",
+    "city_name": "Ratauli",
+    "latitude": 26.5763,
+    "longitude": 81.4932,
+    "postal_code": "225124",
+    "country_code": "IN"
+  },
+  {
+    "city_id": "0x0004A640B8A84E3795E626D23AA1F519",
+    "city_name": "Água Longa",
+    "latitude": 41.2497,
+    "longitude": -8.4929,
+    "postal_code": "4825-457",
+    "country_code": "PT"
+  },
+  {
+    "city_id": "0x0004A6EE0F714920BC32C136E5F4FAA9",
+    "city_name": "Söğütce",
+    "latitude": 37.5964,
+    "longitude": 43.2458,
+    "postal_code": "73800",
+    "country_code": "TR"
+  },
+  {
+    "city_id": "0x0004AB33234F4C1ABAFFCABEAC83FCF6",
+    "city_name": "Senwaria",
+    "latitude": 26.7449,
+    "longitude": 84.6802,
+    "postal_code": "845454",
+    "country_code": "IN"
+  },
+  {
+    "city_id": "0x0004B5B2B29B45CB8D6D5A04DAE88A16",
+    "city_name": "Скорды",
+    "latitude": 57.1833,
+    "longitude": 27.8833,
+    "postal_code": "181412",
+    "country_code": "RU"
+  },
+  {
+    "city_id": "0x0004C464BBCA4EC19EBA415209814F9B",
+    "city_name": "Hillview",
+    "latitude": 38.0764,
+    "longitude": -85.6774,
+    "postal_code": "40129",
+    "country_code": "US"
+  },
+  {
+    "city_id": "0x0004D0AD90FA446398C1DF6548F89529",
+    "city_name": "Porto Salvo",
+    "latitude": 38.7175,
+    "longitude": -9.2983,
+    "postal_code": "2740-210",
+    "country_code": "PT"
+  },
+  {
+    "city_id": "0x0004D8CEE6004B8CBF58AFF652D955CB",
+    "city_name": "Doptău",
+    "latitude": 46.2646,
+    "longitude": 23.927,
+    "postal_code": "517758",
+    "country_code": "RO"
+  },
+  {
+    "city_id": "0x0004D9D2D9954E069FFB29CFE7C76E3D",
+    "city_name": "Ribeira Fundeira",
+    "latitude": 40.1725,
+    "longitude": -8.2006,
+    "postal_code": "3200-342",
+    "country_code": "PT"
+  },
+  {
+    "city_id": "0x0004DA3B2CD342F5A0521058423CF0BE",
+    "city_name": "Chilworth",
+    "latitude": 51.2163,
+    "longitude": -0.5313,
+    "postal_code": "GU4",
+    "country_code": "GB"
+  },
+  {
+    "city_id": "0x0004E45D88AB47A4A9172DBEEBBDF608",
+    "city_name": "Potosi",
+    "latitude": 0.8074,
+    "longitude": -77.5722,
+    "postal_code": "524038",
+    "country_code": "CO"
+  },
+  {
+    "city_id": "0x0004F7BC28A248169AD7539E8CF1E5A9",
+    "city_name": "Aldinga Beach",
+    "latitude": -35.2783,
+    "longitude": 138.458,
+    "postal_code": "5173",
+    "country_code": "AU"
+  },
+  {
+    "city_id": "0x0004FC1BB7604851BD0BE75DDB7DCC6E",
+    "city_name": "Lautertal",
+    "latitude": 50.5833,
+    "longitude": 9.2833,
+    "postal_code": "36369",
+    "country_code": "DE"
+  },
+  {
+    "city_id": "0x0005028948A44B5E8FE35B7F57381F4D",
+    "city_name": "Divanbaşi",
+    "latitude": 41.143,
+    "longitude": 35.9735,
+    "postal_code": "55850",
+    "country_code": "TR"
+  },
+  {
+    "city_id": "0x00050BEC46874C8FAC035D8E5A85BFD0",
+    "city_name": "Borger",
+    "latitude": 35.6678,
+    "longitude": -101.3974,
+    "postal_code": "79008",
+    "country_code": "US"
+  },
+  {
+    "city_id": "0x00050CB9797C4A7D99CCD8F620CE3960",
+    "city_name": "Tecomatán",
+    "latitude": 20.115,
+    "longitude": -102.4961,
+    "postal_code": "59183",
+    "country_code": "MX"
+  },
+  {
+    "city_id": "0x00050F2C9A344F68A349EA10195F6252",
+    "city_name": "El Remance",
+    "latitude": 18.1778,
+    "longitude": -100.3333,
+    "postal_code": "40783",
+    "country_code": "MX"
+  },
+  {
+    "city_id": "0x000515EC83B64B24931F6B8E2636CE05",
+    "city_name": "Arisipalayam",
+    "latitude": 11.4856,
+    "longitude": 78.2949,
+    "postal_code": "636009",
+    "country_code": "IN"
+  },
+  {
+    "city_id": "0x00051A52861E49A0A26812E6466982B1",
+    "city_name": "Miandetta",
+    "latitude": -31.5833,
+    "longitude": 146.9667,
+    "postal_code": "2825",
+    "country_code": "AU"
+  },
+  {
+    "city_id": "0x00051B2D76954973BF54BA191ABCF24B",
+    "city_name": "Гребнево",
+    "latitude": 54.3608,
+    "longitude": 39.9586,
+    "postal_code": "391192",
+    "country_code": "RU"
+  },
+  {
+    "city_id": "0x0005209A942A4BF5858DD8DDF05F37BC",
+    "city_name": "Muniyara",
+    "latitude": 9.7031,
+    "longitude": 76.9833,
+    "postal_code": "685571",
+    "country_code": "IN"
+  },
+  {
+    "city_id": "0x0005356CB7664EDA849C1D646DFD1B9E",
+    "city_name": "Goes",
+    "latitude": 51.5038,
+    "longitude": 3.8921,
+    "postal_code": "4461",
+    "country_code": "NL"
+  },
+  {
+    "city_id": "0x00055E9C09AD45F380D6C44E446FB504",
+    "city_name": "Shimoazae",
+    "latitude": 34.9667,
+    "longitude": 133.6333,
+    "postal_code": "716-1433",
+    "country_code": "JP"
+  },
+  {
+    "city_id": "0x00056BD4995249B8A10950825966B95F",
+    "city_name": "Enami Nishigawa",
+    "latitude": 34.2827,
+    "longitude": 134.7778,
+    "postal_code": "656-0424",
+    "country_code": "JP"
+  },
+  {
+    "city_id": "0x0005701029774FD49C81468D9AD4CEC9",
+    "city_name": "Vila Nova de Cerveira",
+    "latitude": 41.9412,
+    "longitude": -8.7423,
+    "postal_code": "4920-268",
+    "country_code": "PT"
+  },
+  {
+    "city_id": "0x00057BDC0E11428E97606B7765278C95",
+    "city_name": "Meli Bandha",
+    "latitude": 25.7483,
+    "longitude": 72.1784,
+    "postal_code": "344044",
+    "country_code": "IN"
+  }
+]

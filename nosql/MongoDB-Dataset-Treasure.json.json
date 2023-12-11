@@ -1,0 +1,702 @@
+[
+  {
+    "id": "0x00003E2CB14041B197F00033C097E070",
+    "difficulty": 3,
+    "terrain": 1,
+    "city_city_id": "0x6234F00E0E994A6D8A7C5040FCA8CC1B",
+    "owner_id": "0xB3105970E96449C4A26602B0F2694FFB"
+  },
+  {
+    "id": "0x0003723C7CC34262A6F3E8A3E7B80563",
+    "difficulty": 3,
+    "terrain": 2,
+    "city_city_id": "0x590742E8551A48C3BEC8BEBB2A63CE9B",
+    "owner_id": "0x75AAF74A33CB44BAB61F77637DC1D24E"
+  },
+  {
+    "id": "0x000439A09875404F9FEEFA1A40E9C754",
+    "difficulty": 4,
+    "terrain": 4,
+    "city_city_id": "0xDB3944FB1D06410398B92556B5443113",
+    "owner_id": "0x8BCC87A38C6B4FE2819FBA97E293EFE1"
+  },
+  {
+    "id": "0x0004621B29E848DB8D98C69547E51DA0",
+    "difficulty": 1,
+    "terrain": 2,
+    "city_city_id": "0x6697B34B1F104E3F81044C5BE10AE241",
+    "owner_id": "0x11C4C79695654574906555956A9C139F"
+  },
+  {
+    "id": "0x00051EA20587471F80A3288199C821D3",
+    "difficulty": 0,
+    "terrain": 2,
+    "city_city_id": "0x38EC6D3C5A1E4EDDBC34DFCB6FF1F709",
+    "owner_id": "0xDDADC2FE295D4783BA634948FBB4A83D"
+  },
+  {
+    "id": "0x0005A4FF380E4326AD9C781F9DE79285",
+    "difficulty": 2,
+    "terrain": 0,
+    "city_city_id": "0x99F1551E80864A4A88FE35C4B4E1AC21",
+    "owner_id": "0x0DA7A2565DD745D99185FE0877029FBB"
+  },
+  {
+    "id": "0x00060510FC0C4E85A3BD1C999FB66013",
+    "difficulty": 2,
+    "terrain": 2,
+    "city_city_id": "0x503E91AAF3344826BCC2CF338767FE29",
+    "owner_id": "0xC785D83DBED742959DB845417FBA4008"
+  },
+  {
+    "id": "0x0008A9BFBE4B4F22868B2A56E5BDB054",
+    "difficulty": 3,
+    "terrain": 2,
+    "city_city_id": "0x59B1A528DDCC4298AE20E3A01CF444C3",
+    "owner_id": "0x1CE47F2B5F244CFC9A8D0CD6B6A6E56D"
+  },
+  {
+    "id": "0x0008B89FB1D5460F947A6A24C7654F53",
+    "difficulty": 3,
+    "terrain": 0,
+    "city_city_id": "0xF6A7AD783F13497AA9D2448E930E32A8",
+    "owner_id": "0x330259976E8A488FAF9A1B39C35372C7"
+  },
+  {
+    "id": "0x0008B9201BF94A0FA6F30B56AB1CFFE0",
+    "difficulty": 1,
+    "terrain": 2,
+    "city_city_id": "0x279E9E639EAE4C0FAB9ACFA42C373027",
+    "owner_id": "0x1861405461394EAF9186AB14E965D950"
+  },
+  {
+    "id": "0x0008E270CBAD4E398A2FF223F032A1C8",
+    "difficulty": 2,
+    "terrain": 2,
+    "city_city_id": "0xAEA0A309221A49FFAC01717FD8229AA7",
+    "owner_id": "0xFC4926022C3B422B9925B479E9DFCEA4"
+  },
+  {
+    "id": "0x0009575416DF461D8A328D0E774BB2B6",
+    "difficulty": 1,
+    "terrain": 4,
+    "city_city_id": "0xB2BE608EA5B84EC38B33C25DBCE48353",
+    "owner_id": "0x53CCF1BD3D4240E78AD22FF43C3BEF86"
+  },
+  {
+    "id": "0x00095DDB3BC5417B9EC50069848CA390",
+    "difficulty": 0,
+    "terrain": 2,
+    "city_city_id": "0x79FCE564B9B5401F9543870936939EE6",
+    "owner_id": "0x02012F3574524347800FE747C233B52A"
+  },
+  {
+    "id": "0x000A1E88C1154FBFB40508C9658A4C8E",
+    "difficulty": 2,
+    "terrain": 2,
+    "city_city_id": "0x2F08AB1D02BE48DBA5F6AA61E7CF84A9",
+    "owner_id": "0x55D0F2FB55DB4221A32C18EC92910B8A"
+  },
+  {
+    "id": "0x000A910B0E304625AC3B4F117CDD8133",
+    "difficulty": 2,
+    "terrain": 4,
+    "city_city_id": "0x635842A3F658456FAD3B69C05D2C505D",
+    "owner_id": "0xF5F93F42D2F7496DB02DF71E7D0F6FAF"
+  },
+  {
+    "id": "0x000B0CE58FC64AF7B23F2FE336766617",
+    "difficulty": 2,
+    "terrain": 3,
+    "city_city_id": "0x0742387FEF424F3DAE0F13BD4F2E9B7B",
+    "owner_id": "0xBAACA6A350164BBFA67942922CDB48AA"
+  },
+  {
+    "id": "0x000B12E393264CD7A1B8C3D10A14E486",
+    "difficulty": 1,
+    "terrain": 0,
+    "city_city_id": "0xB7662E83BADC4BDCADEE4390EB19CA25",
+    "owner_id": "0xF600DDF0E8024559A62DAF76F3BDDB37"
+  },
+  {
+    "id": "0x000CEC29868C4289B90E2802DC66C1CB",
+    "difficulty": 2,
+    "terrain": 4,
+    "city_city_id": "0x680B6AE9FFBC4C9393C1CADEBADBB964",
+    "owner_id": "0x1EAE7D066AC34C2E80C9ADD54D509598"
+  },
+  {
+    "id": "0x000D2D88F1304CF2B3A1CA003845B783",
+    "difficulty": 4,
+    "terrain": 2,
+    "city_city_id": "0xA8F1CF47431D4F9DBEEA7A283F9633F3",
+    "owner_id": "0x05C7C7CD0D874440AF4D6E77F02E12E4"
+  },
+  {
+    "id": "0x000E3E4056D345D5A83B3EBB60CFB01B",
+    "difficulty": 2,
+    "terrain": 2,
+    "city_city_id": "0x3A9A9FEF29F94A8097B9EFF1A95EBA4B",
+    "owner_id": "0x4BF1138A57D94D1FB31F7E38FA1890FF"
+  },
+  {
+    "id": "0x000E82C1180547B0841D50ED6BB04F66",
+    "difficulty": 0,
+    "terrain": 2,
+    "city_city_id": "0x6AAC6940CCFB4193BA5A71C8EF0ECF4C",
+    "owner_id": "0x6480D67AD7994BE7AAFE65230F2E76EB"
+  },
+  {
+    "id": "0x000EF46E22EE4658B94724C9F2BD767C",
+    "difficulty": 2,
+    "terrain": 4,
+    "city_city_id": "0x8FCB6F1EEEE140139492C08920767D70",
+    "owner_id": "0xDEBD8DF2B26A4F67AD557E2872F0793D"
+  },
+  {
+    "id": "0x000EFCF7D0824D57A338F46FE2464ED2",
+    "difficulty": 2,
+    "terrain": 2,
+    "city_city_id": "0xF76CC60FCABF48DE939A24492F6DB154",
+    "owner_id": "0xB413C150B5E04153B6836380184AA6BF"
+  },
+  {
+    "id": "0x000F1D4FFFAA49C0A8B9959E467D3B17",
+    "difficulty": 2,
+    "terrain": 0,
+    "city_city_id": "0x072F1DF3DFB743EBA51B9BF661BB2819",
+    "owner_id": "0xF4C4FE6D87444F76B8FDC554F2B24B41"
+  },
+  {
+    "id": "0x000F44E24EDD4D0F8F6E088E7B6D2107",
+    "difficulty": 3,
+    "terrain": 3,
+    "city_city_id": "0x9F167686B26E4282883F8870DDDF6B4D",
+    "owner_id": "0x3B425A21B13E4952AB8043AB501569AC"
+  },
+  {
+    "id": "0x000FEE3820964F51B752B2CA16EDCF94",
+    "difficulty": 2,
+    "terrain": 1,
+    "city_city_id": "0x734C70D3690B4268ABDF8D0E619F5831",
+    "owner_id": "0xB6D85235DD054E1EB3BD6D0525629E80"
+  },
+  {
+    "id": "0x000FFE622E684021B53D86D5F3810C6B",
+    "difficulty": 2,
+    "terrain": 2,
+    "city_city_id": "0x11174CF48445426A9929965ED6A5A17A",
+    "owner_id": "0xF30DE2F7BE604CB6AC8A5D703C041BB0"
+  },
+  {
+    "id": "0x001005864E35464D9EB5EFFEB9A112CA",
+    "difficulty": 2,
+    "terrain": 3,
+    "city_city_id": "0xC0A5850932FC4B3182435C6379C5E647",
+    "owner_id": "0x37F8006B09B049A0B3837CE43A2B90AC"
+  },
+  {
+    "id": "0x0010703B557A47B19C60AC4DF88860CD",
+    "difficulty": 4,
+    "terrain": 2,
+    "city_city_id": "0x3522CB50077A40EDBD2FBD19F4F04E5E",
+    "owner_id": "0x4AE98080D87447C1B8C0EA0A0D51706B"
+  },
+  {
+    "id": "0x0010B91570F541598E975FF8D45B814B",
+    "difficulty": 2,
+    "terrain": 3,
+    "city_city_id": "0x33B5B8FD31AC4376B454623C31642FCA",
+    "owner_id": "0x81D7FB52EB2E4D8DACEA5F4F4432D44C"
+  },
+  {
+    "id": "0x00111B7BEE364FC0B733D3EE60D13589",
+    "difficulty": 4,
+    "terrain": 0,
+    "city_city_id": "0x243AAD1A83F746E0998F70B0C73BC2A7",
+    "owner_id": "0xEDBBC1D2C0084FDB84096362539C7A6D"
+  },
+  {
+    "id": "0x00112A274003408691549C1167719D29",
+    "difficulty": 2,
+    "terrain": 0,
+    "city_city_id": "0x5C67E84FC6C24E0CBCE415B4C6A17574",
+    "owner_id": "0xDB0223DB5D7545E0A7EA44062207EA01"
+  },
+  {
+    "id": "0x00116EF0A5034D85A165039E0056DAB5",
+    "difficulty": 0,
+    "terrain": 4,
+    "city_city_id": "0x1D577E87B247459FB8F1BEA47E1EF16F",
+    "owner_id": "0x36CBA5C0402B4B7F9E697F110AFA63A4"
+  },
+  {
+    "id": "0x0011E515888F451D809BEE77C389F8F3",
+    "difficulty": 2,
+    "terrain": 3,
+    "city_city_id": "0x2AE0111E16FF4B2F961AAE2F1A49BB45",
+    "owner_id": "0x52FE6225F17A4BCBB576CF5DB878C232"
+  },
+  {
+    "id": "0x0011EB50E9484E5DBE117A28B1844C21",
+    "difficulty": 2,
+    "terrain": 4,
+    "city_city_id": "0x255FEA723978427C91B8472CBD8EEACD",
+    "owner_id": "0x1E5A1CAC0F3D40259B2C6BB483CBED6B"
+  },
+  {
+    "id": "0x001219CA2A6E4A9EA1FBF4CA99AF518F",
+    "difficulty": 2,
+    "terrain": 1,
+    "city_city_id": "0xB395BFF9022C485B8A89BE152670241F",
+    "owner_id": "0x22B084033AF24A0DB4A46A2765D66530"
+  },
+  {
+    "id": "0x00144237B3A34BD488AC0492F0761D87",
+    "difficulty": 3,
+    "terrain": 4,
+    "city_city_id": "0x0CC14C8E834546FEB018661C7283AAB0",
+    "owner_id": "0x6AE6DD2406494DB9A3EBA75BDF915B35"
+  },
+  {
+    "id": "0x0014A071F6AF4B7D86734B12E98B2AB7",
+    "difficulty": 2,
+    "terrain": 4,
+    "city_city_id": "0xE0C36D665D9B4371962878C44ED1497C",
+    "owner_id": "0xF64A8D185A4A4ECD87DBDDAC7165D819"
+  },
+  {
+    "id": "0x00150CC38542428FBCD5D423624125CE",
+    "difficulty": 2,
+    "terrain": 2,
+    "city_city_id": "0xFE0875BB980C439DAF2127873965DCF6",
+    "owner_id": "0xC463AC7F143D4D4EAC00BE7A0755760A"
+  },
+  {
+    "id": "0x00151C1D931B46DCA1582C5129CA1EFE",
+    "difficulty": 2,
+    "terrain": 4,
+    "city_city_id": "0x4FF1117E29094A0F8F6D34F385122BF5",
+    "owner_id": "0x9E2D1A5E11DF436F911E2144D756DAAC"
+  },
+  {
+    "id": "0x0016AA2439EF4CF184F8C9221DED54F2",
+    "difficulty": 3,
+    "terrain": 2,
+    "city_city_id": "0x3F6080A3CFA84E95B5F541F7D2D541B1",
+    "owner_id": "0xD0ADC6A469D94FB1B1AB01DE5433D1B5"
+  },
+  {
+    "id": "0x00173C1E7E67486CB3A057E34BE7222D",
+    "difficulty": 4,
+    "terrain": 1,
+    "city_city_id": "0xE0F3E4C1333142909DEDEAD06AC2DB6C",
+    "owner_id": "0x65D09712140C4E0D9E0BA47E6B045539"
+  },
+  {
+    "id": "0x0017578A4C824FCFB6D8DC59492E3BF3",
+    "difficulty": 2,
+    "terrain": 1,
+    "city_city_id": "0x79397CE30C6D44658FBA31DAE1264804",
+    "owner_id": "0x4F3756C9AE2D485ABDE4CFF02337ED40"
+  },
+  {
+    "id": "0x001790E9A60B4E3887DB4C4CB5FB89F9",
+    "difficulty": 2,
+    "terrain": 3,
+    "city_city_id": "0x1F17257F69EE47D9A3E173804A905D6A",
+    "owner_id": "0x1088F7EB3DBC4A3B98596F41B8F41732"
+  },
+  {
+    "id": "0x0017B7CFB7D64EF48FC9184359C410D5",
+    "difficulty": 4,
+    "terrain": 4,
+    "city_city_id": "0x2F7152F6D2644065AE2063CBDBCC6C7D",
+    "owner_id": "0xFFD790CBC1974F24A4EC86BAC63879E5"
+  },
+  {
+    "id": "0x0017CF527309441A97F233E27988CF79",
+    "difficulty": 2,
+    "terrain": 1,
+    "city_city_id": "0xC38B32E7E3BF48AD83B68A66160E9CF5",
+    "owner_id": "0x385EC8F5DC564EEEB664BB59276F11CB"
+  },
+  {
+    "id": "0x00183E3E92D843F698CD989231D849A2",
+    "difficulty": 4,
+    "terrain": 4,
+    "city_city_id": "0xFF3149C7ADC8429A9000C1F110737895",
+    "owner_id": "0x861F3CC547A24B048349FFF325D94E47"
+  },
+  {
+    "id": "0x0018B8A484124EDA9B05BF38B0974592",
+    "difficulty": 3,
+    "terrain": 1,
+    "city_city_id": "0x8DEF523691FA4A219955DBC3E9D1FA21",
+    "owner_id": "0xD8E6896DDB59430BBCA9163FB27BD0AA"
+  },
+  {
+    "id": "0x00190E884BB54B4EB11D7CC99A8934D7",
+    "difficulty": 1,
+    "terrain": 1,
+    "city_city_id": "0x2E826422E562456B8C8629014A97BA34",
+    "owner_id": "0x644BED7D733F499483F8CE5AFB654921"
+  },
+  {
+    "id": "0x00190F6DDF1D4505B3AF503ED4056177",
+    "difficulty": 2,
+    "terrain": 2,
+    "city_city_id": "0x44C3296DA8A24DDFA54047AD9DCD6E16",
+    "owner_id": "0x881110749CD749CB8FB76AFD8F9F6BF2"
+  },
+  {
+    "id": "0x00191ED152B8466BB8A23722BC7C20D4",
+    "difficulty": 2,
+    "terrain": 4,
+    "city_city_id": "0x4FF1117E29094A0F8F6D34F385122BF5",
+    "owner_id": "0x9E2D1A5E11DF436F911E2144D756DAAC"
+  },
+  {
+    "id": "0x00193AF339974C938B363D4213602624",
+    "difficulty": 1,
+    "terrain": 2,
+    "city_city_id": "0x36BD79D42E244FF08BA3E54CE9C3C75F",
+    "owner_id": "0x43DB8B41666E49C68BADBCE55E6CD1E8"
+  },
+  {
+    "id": "0x0019898DF75641ABBAFFA4DE36750B50",
+    "difficulty": 3,
+    "terrain": 3,
+    "city_city_id": "0x11042F5A4B034D7480277FBDD7201516",
+    "owner_id": "0xEEBA2323DCB547E8953991C938084118"
+  },
+  {
+    "id": "0x00198CC3AF154D428632DCC57E8035AF",
+    "difficulty": 1,
+    "terrain": 2,
+    "city_city_id": "0xC0678640F9404008A7EA8263EB638289",
+    "owner_id": "0xA004852C002B4B6EBB775658F5EC8015"
+  },
+  {
+    "id": "0x0019A1FDB1484ECD8B158BDC2E85D158",
+    "difficulty": 3,
+    "terrain": 1,
+    "city_city_id": "0x94E0B8B74ED949C880510B479845ED1E",
+    "owner_id": "0xE7E611A0FCFA41DB91A0FC2C66610406"
+  },
+  {
+    "id": "0x0019EA3BAE034CD59C8D6942B76F4071",
+    "difficulty": 4,
+    "terrain": 4,
+    "city_city_id": "0x626FF8BE9F4343AEB1FED5929AA2CABB",
+    "owner_id": "0xE3D9B43C5D99487091DD57625F2436A8"
+  },
+  {
+    "id": "0x001A23BE777B4AE6ABD60454238F766C",
+    "difficulty": 1,
+    "terrain": 4,
+    "city_city_id": "0xDDEEDD3109BF4731B6AEAAD5FA456F18",
+    "owner_id": "0x8A51036D218E4DD7B65F195174483B8E"
+  },
+  {
+    "id": "0x001C0A856EDC44F2A828D85DDD4D5526",
+    "difficulty": 1,
+    "terrain": 4,
+    "city_city_id": "0xA00185FAC0404AB0ABD427A5BA40E001",
+    "owner_id": "0x0F4EB991A3DB44289FDBFE112989B621"
+  },
+  {
+    "id": "0x001C3F11B59B4FF192220CC21CB51599",
+    "difficulty": 2,
+    "terrain": 4,
+    "city_city_id": "0xE4163E343C5D4241B97BABA7F6130366",
+    "owner_id": "0xE4CB71ADA2D14B91BFF2D9FC8BFF5DB1"
+  },
+  {
+    "id": "0x001C5DDD8E044506927929D0A7310026",
+    "difficulty": 0,
+    "terrain": 4,
+    "city_city_id": "0xF9F6A7C51F9A4385B32BDB12A62BFE84",
+    "owner_id": "0x23B2259AC5F8460CBE7788EA69D501C1"
+  },
+  {
+    "id": "0x001D0F921FF6492992A122C27093D642",
+    "difficulty": 3,
+    "terrain": 2,
+    "city_city_id": "0xDDDAA5D98F244D6FBF1E85E3FB5D64F3",
+    "owner_id": "0xFD1925798F2C4251AF8C6AEEEA944BDD"
+  },
+  {
+    "id": "0x001FFF358E924171811C7D83A7946B41",
+    "difficulty": 1,
+    "terrain": 2,
+    "city_city_id": "0xDB913302DD554E5D8D5C9D537D7E24A8",
+    "owner_id": "0x63748751B25944A5A07E0C496CB23E08"
+  },
+  {
+    "id": "0x00205F75BEA742A08C4EA47F0C4D645D",
+    "difficulty": 3,
+    "terrain": 2,
+    "city_city_id": "0x630D17039D744506B9B40B6E20167405",
+    "owner_id": "0x89E32E7BEAC74B769A33E0A989C11F7E"
+  },
+  {
+    "id": "0x00213CCC39E54F18847775917FF70D37",
+    "difficulty": 2,
+    "terrain": 2,
+    "city_city_id": "0xD6BA86611A654D3C8428B47F7519FB4A",
+    "owner_id": "0x6583CC2D5A3A4803A65757414F2CD06C"
+  },
+  {
+    "id": "0x002150B4EBEB49D98A0C5A39150E8FDF",
+    "difficulty": 2,
+    "terrain": 2,
+    "city_city_id": "0x0067DEB4CAD54040B3BFA74BC4567795",
+    "owner_id": "0x254DEE97AB374C529B1D540CCD2996B0"
+  },
+  {
+    "id": "0x0021C6515F2F4DAEA54B6610D2CB2C58",
+    "difficulty": 2,
+    "terrain": 2,
+    "city_city_id": "0x132138F2166B45DAB2B41F3BB4C429DD",
+    "owner_id": "0xDF799FCF7F8D4618800C3A0992A0DB94"
+  },
+  {
+    "id": "0x0024028C91D54759AB44FA57A3FE4C98",
+    "difficulty": 1,
+    "terrain": 3,
+    "city_city_id": "0xFE3D8D369113455B871E8EB43B23F781",
+    "owner_id": "0xE9043825F58A48B4B41A2F9F8EF04D15"
+  },
+  {
+    "id": "0x00240CCE4FE049C2A43473F390FA277B",
+    "difficulty": 2,
+    "terrain": 1,
+    "city_city_id": "0xC6D793C49C2340F48A886374B4ACE80C",
+    "owner_id": "0x395438F29DFB482681E7C9C50026118F"
+  },
+  {
+    "id": "0x0024173C3F9C4197B806963E2BCE9472",
+    "difficulty": 3,
+    "terrain": 3,
+    "city_city_id": "0xDFE7C425097B462D843C255870F5E26E",
+    "owner_id": "0xAB445C11812049F0886793029826F183"
+  },
+  {
+    "id": "0x0024259B61DC44019E5F296D65923CA2",
+    "difficulty": 4,
+    "terrain": 2,
+    "city_city_id": "0x217A8E1EF47D4D84AB7949AC6AF7003F",
+    "owner_id": "0x2D42F2407C41475B820FD28792B7000A"
+  },
+  {
+    "id": "0x00244D92D7564C52B6D355503F210888",
+    "difficulty": 2,
+    "terrain": 3,
+    "city_city_id": "0x14882784FA6141049C3C0F385F5DDD1A",
+    "owner_id": "0x101574A626774EAEAB40BCB940F8E686"
+  },
+  {
+    "id": "0x0025AF96FAD24454AF53BC58BA8D1CA8",
+    "difficulty": 1,
+    "terrain": 2,
+    "city_city_id": "0x05CD30DC504647749B96EA13B956A7FD",
+    "owner_id": "0x1DA9D652F5BE479FA656C8EECE05FCBF"
+  },
+  {
+    "id": "0x0025C75495AF475292B56C29904FF125",
+    "difficulty": 1,
+    "terrain": 1,
+    "city_city_id": "0x716AD845CE2E4833AD079A27F37DC7B6",
+    "owner_id": "0x50469C8589334E6CB6A2671CFCF4B17B"
+  },
+  {
+    "id": "0x00266FABC5F5469E93AA42BBD05CD98C",
+    "difficulty": 2,
+    "terrain": 1,
+    "city_city_id": "0xBA32F1E2A6914D47A8FB0D9B461F1AD8",
+    "owner_id": "0x30B2A5EC5A0C4EE3B3EAF78A8141F6B9"
+  },
+  {
+    "id": "0x0026FA9275F64F8DB3E1CD931AC0C294",
+    "difficulty": 0,
+    "terrain": 2,
+    "city_city_id": "0x16923E70E3784A06811A682B2D88139A",
+    "owner_id": "0x71A16418FE3E4E0D8FD7B0CF46C7CC64"
+  },
+  {
+    "id": "0x0027C5756E684E6A99E038CAAB935EE9",
+    "difficulty": 2,
+    "terrain": 4,
+    "city_city_id": "0x1589EE2E96BE419B84F61C3CA42A6328",
+    "owner_id": "0xA84995D4FF0E43FF9A441C69B8F01302"
+  },
+  {
+    "id": "0x0027EDC6C2724415AED4BE5DE49E8799",
+    "difficulty": 2,
+    "terrain": 2,
+    "city_city_id": "0xC51A402D0D3149C6A8DA67C7AF7801B1",
+    "owner_id": "0x934C54D6BBCC4E0C96815086C874AD83"
+  },
+  {
+    "id": "0x0027F73371F7484F90994335D970C687",
+    "difficulty": 2,
+    "terrain": 3,
+    "city_city_id": "0x430EF4E6878845B89C6C5BB37EC259C1",
+    "owner_id": "0x9BE85016A1C74F9FB2E34C7169BF8AF0"
+  },
+  {
+    "id": "0x002801D17682478CB81CB0C1DE17F2FB",
+    "difficulty": 1,
+    "terrain": 2,
+    "city_city_id": "0xE080AC1C8D57494C9E76E1E8666F2A10",
+    "owner_id": "0x16519220777B45B5B7E633A79666AAE8"
+  },
+  {
+    "id": "0x00286B6AF4044EFA937B7D7148CADD23",
+    "difficulty": 3,
+    "terrain": 1,
+    "city_city_id": "0xAC67AB67B314404D8986497F3A924F27",
+    "owner_id": "0xBD5B57E3DA7542ECBF61026EBAD8B5FC"
+  },
+  {
+    "id": "0x002A77FDA9A940AE9C9D27626C89AAF3",
+    "difficulty": 2,
+    "terrain": 2,
+    "city_city_id": "0x8163AD338CC248A199806506066340E2",
+    "owner_id": "0xA461EAD95579421DB9CAF399FD2625A4"
+  },
+  {
+    "id": "0x002ADF003FD14BA6B270B7DE702613F6",
+    "difficulty": 4,
+    "terrain": 3,
+    "city_city_id": "0xD8F449F7B8AD42E5914A8166327EEAE9",
+    "owner_id": "0x14643B83D0854B6782552D46389078CA"
+  },
+  {
+    "id": "0x002B425B7E1E46618A70884F8A3416E8",
+    "difficulty": 4,
+    "terrain": 3,
+    "city_city_id": "0x1AABD9EF09054A55B6DD5CDD7DABDCC7",
+    "owner_id": "0x64D208396F91436689A6AA5B3FCEBDC8"
+  },
+  {
+    "id": "0x002B7FC777E6438DA9D6291B585D53F2",
+    "difficulty": 2,
+    "terrain": 2,
+    "city_city_id": "0x12FDB17F9E4941408AF7ADE11A9E96DF",
+    "owner_id": "0xEAD8316841994348953CE4C38132648A"
+  },
+  {
+    "id": "0x002CCA17F2364E0F94D89F4AD8D71D47",
+    "difficulty": 3,
+    "terrain": 1,
+    "city_city_id": "0x7D0F32EA06C1452191ED3BB0ABAEB940",
+    "owner_id": "0xCC71C96C637C4BA68F2D94A1B65A06DC"
+  },
+  {
+    "id": "0x002CE88B18EB48E28243BD2C3F5BAF1C",
+    "difficulty": 4,
+    "terrain": 1,
+    "city_city_id": "0x6D9DBC30B4FF4AE0B6DE4D69453E8E7B",
+    "owner_id": "0x60CDFA7311E343F28716321FA1500990"
+  },
+  {
+    "id": "0x002DD38A2E9B4391A884E023D5FE5335",
+    "difficulty": 2,
+    "terrain": 4,
+    "city_city_id": "0xAB591CEDBE164BAEAEB8D13FC320479D",
+    "owner_id": "0x48FEB0F67E3D47C08E6A6AEFDC61ABFA"
+  },
+  {
+    "id": "0x002EFED3886A49C5AA67B852E1DFC768",
+    "difficulty": 2,
+    "terrain": 1,
+    "city_city_id": "0x0C5C9B12C1544E3C8C7E15381828FF1A",
+    "owner_id": "0x54F807EED3014FD6824E80F4FF340D7A"
+  },
+  {
+    "id": "0x002F7655AB944823AA8571AC6AB3C6D6",
+    "difficulty": 0,
+    "terrain": 0,
+    "city_city_id": "0x4012BFB279CC45EB96DAF2D7CF542622",
+    "owner_id": "0x169E048A4F3E4BDEB4DE4231E4483374"
+  },
+  {
+    "id": "0x002FF58A326C4C599F187B6742C252A3",
+    "difficulty": 2,
+    "terrain": 2,
+    "city_city_id": "0x923614C859F54D778BEB0F805BD43CBF",
+    "owner_id": "0xEAB1A2371A8D42BF90C520FCA8858808"
+  },
+  {
+    "id": "0x0030B6BFDD1D4F99B548F908DB4CFC13",
+    "difficulty": 3,
+    "terrain": 2,
+    "city_city_id": "0xF6B55F36B4AD4CED9F887BCF2D0B61EB",
+    "owner_id": "0x19D63E454F304A2EB4FB7A62DE75E401"
+  },
+  {
+    "id": "0x0031690FD6A74476B51D8EDBE02C94AC",
+    "difficulty": 2,
+    "terrain": 1,
+    "city_city_id": "0xFEC2CD1EBC1642AAAE81241E5BCE4629",
+    "owner_id": "0x5E8E807D6E7B40CB8961FEAACA521E24"
+  },
+  {
+    "id": "0x0031BDB533924E10A188BAE7C36CE6D3",
+    "difficulty": 3,
+    "terrain": 3,
+    "city_city_id": "0x90BCDB3ABF424BB4BED49716165EE825",
+    "owner_id": "0x26017972970A405180C01E9F4C80F4D4"
+  },
+  {
+    "id": "0x0031DEDE2BC24DD4903FE9FA22DADE1F",
+    "difficulty": 2,
+    "terrain": 4,
+    "city_city_id": "0x3D63CDCEEA65481EA1A06FEE4C2EBF48",
+    "owner_id": "0x2149D856B7534819A5E451D0FD17E2FA"
+  },
+  {
+    "id": "0x00322DB3DBBC4DE9B4BE20F4D71F6B01",
+    "difficulty": 0,
+    "terrain": 2,
+    "city_city_id": "0x6BD334ABBBB14D068D6B8ABFFA7331EF",
+    "owner_id": "0xD03DFD1866E042FDA0164D65B9BF1B91"
+  },
+  {
+    "id": "0x00326513EA8547ABB871F1212A65CE7C",
+    "difficulty": 2,
+    "terrain": 4,
+    "city_city_id": "0x85EA3FA5838347DDB1FEA5C7BDB2FBA0",
+    "owner_id": "0x88C09BDE48D74172BA46AD836A7D6DD4"
+  },
+  {
+    "id": "0x0032D6CA8A5F4604A7A94F3AB66ACAF6",
+    "difficulty": 2,
+    "terrain": 2,
+    "city_city_id": "0x625E196783584D6FB8F9EE04E2FDE302",
+    "owner_id": "0x7F6F103EBF7C4793AAA46C22104AB832"
+  },
+  {
+    "id": "0x0032F6F2316B441FB1A1206957B3461F",
+    "difficulty": 0,
+    "terrain": 2,
+    "city_city_id": "0x8514D8247F044AF9947E98FDF3DA76EC",
+    "owner_id": "0x9435FEF4C774404196B59E165F4F0462"
+  },
+  {
+    "id": "0x003463B0DADD46D1AED94E5F2DC95C8F",
+    "difficulty": 0,
+    "terrain": 2,
+    "city_city_id": "0x57C27CACB25D43F4A252F2D62ECF2505",
+    "owner_id": "0x2CF7D5300B1146839982E29D8BA965C7"
+  },
+  {
+    "id": "0x00346BC94ABD426FA96603AC47AF40B7",
+    "difficulty": 1,
+    "terrain": 3,
+    "city_city_id": "0xD542DF912D6147699D87FBFBE94683C6",
+    "owner_id": "0xDF450D95F30F4241AC95F7F6E2951910"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "code": "AD",
+    "code3": "AND",
+    "name": "Andorra"
+  },
+  {
+    "code": "AE",
+    "code3": "ARE",
+    "name": "United Arab Emirates"
+  },
+  {
+    "code": "AF",
+    "code3": "AFG",
+    "name": "Afghanistan"
+  },
+  {
+    "code": "AG",
+    "code3": "ATG",
+    "name": "Antigua and Barbuda"
+  },
+  {
+    "code": "AI",
+    "code3": "AIA",
+    "name": "Anguilla"
+  },
+  {
+    "code": "AL",
+    "code3": "ALB",
+    "name": "Albania"
+  },
+  {
+    "code": "AM",
+    "code3": "ARM",
+    "name": "Armenia"
+  },
+  {
+    "code": "AO",
+    "code3": "AGO",
+    "name": "Angola"
+  },
+  {
+    "code": "AQ",
+    "code3": "ATA",
+    "name": "Antarctica"
+  },
+  {
+    "code": "AR",
+    "code3": "ARG",
+    "name": "Argentina"
+  },
+  {
+    "code": "AS",
+    "code3": "ASM",
+    "name": "American Samoa"
+  },
+  {
+    "code": "AT",
+    "code3": "AUT",
+    "name": "Austria"
+  },
+  {
+    "code": "AU",
+    "code3": "AUS",
+    "name": "Australia"
+  },
+  {
+    "code": "AW",
+    "code3": "ABW",
+    "name": "Aruba"
+  },
+  {
+    "code": "AX",
+    "code3": "ALA",
+    "name": "Åland Islands"
+  },
+  {
+    "code": "AZ",
+    "code3": "AZE",
+    "name": "Azerbaijan"
+  },
+  {
+    "code": "BA",
+    "code3": "BIH",
+    "name": "Bosnia and Herzegovina"
+  },
+  {
+    "code": "BB",
+    "code3": "BRB",
+    "name": "Barbados"
+  },
+  {
+    "code": "BD",
+    "code3": "BGD",
+    "name": "Bangladesh"
+  },
+  {
+    "code": "BE",
+    "code3": "BEL",
+    "name": "Belgium"
+  },
+  {
+    "code": "BF",
+    "code3": "BFA",
+    "name": "Burkina Faso"
+  },
+  {
+    "code": "BG",
+    "code3": "BGR",
+    "name": "Bulgaria"
+  },
+  {
+    "code": "BH",
+    "code3": "BHR",
+    "name": "Bahrain"
+  },
+  {
+    "code": "BI",
+    "code3": "BDI",
+    "name": "Burundi"
+  },
+  {
+    "code": "BJ",
+    "code3": "BEN",
+    "name": "Benin"
+  },
+  {
+    "code": "BL",
+    "code3": "BLM",
+    "name": "Saint Barthélemy"
+  },
+  {
+    "code": "BM",
+    "code3": "BMU",
+    "name": "Bermuda"
+  },
+  {
+    "code": "BN",
+    "code3": "BRN",
+    "name": "Brunei Darussalam"
+  },
+  {
+    "code": "BO",
+    "code3": "BOL",
+    "name": "Bolivia (Plurinational State of)"
+  },
+  {
+    "code": "BQ",
+    "code3": "BES",
+    "name": "Bonaire, Sint Eustatius and Saba"
+  },
+  {
+    "code": "BR",
+    "code3": "BRA",
+    "name": "Brazil"
+  },
+  {
+    "code": "BS",
+    "code3": "BHS",
+    "name": "Bahamas"
+  },
+  {
+    "code": "BT",
+    "code3": "BTN",
+    "name": "Bhutan"
+  },
+  {
+    "code": "BV",
+    "code3": "BVT",
+    "name": "Bouvet Island"
+  },
+  {
+    "code": "BW",
+    "code3": "BWA",
+    "name": "Botswana"
+  },
+  {
+    "code": "BY",
+    "code3": "BLR",
+    "name": "Belarus"
+  },
+  {
+    "code": "BZ",
+    "code3": "BLZ",
+    "name": "Belize"
+  },
+  {
+    "code": "CA",
+    "code3": "CAN",
+    "name": "Canada"
+  },
+  {
+    "code": "CC",
+    "code3": "CCK",
+    "name": "Cocos (Keeling) Islands"
+  },
+  {
+    "code": "CD",
+    "code3": "COD",
+    "name": "Congo (Democratic Republic of the)"
+  },
+  {
+    "code": "CF",
+    "code3": "CAF",
+    "name": "Central African Republic"
+  },
+  {
+    "code": "CG",
+    "code3": "COG",
+    "name": "Congo"
+  },
+  {
+    "code": "CH",
+    "code3": "CHE",
+    "name": "Switzerland"
+  },
+  {
+    "code": "CI",
+    "code3": "CIV",
+    "name": "Côte d'Ivoire"
+  },
+  {
+    "code": "CK",
+    "code3": "COK",
+    "name": "Cook Islands"
+  },
+  {
+    "code": "CL",
+    "code3": "CHL",
+    "name": "Chile"
+  },
+  {
+    "code": "CM",
+    "code3": "CMR",
+    "name": "Cameroon"
+  },
+  {
+    "code": "CN",
+    "code3": "CHN",
+    "name": "China"
+  },
+  {
+    "code": "CO",
+    "code3": "COL",
+    "name": "Colombia"
+  },
+  {
+    "code": "CR",
+    "code3": "CRI",
+    "name": "Costa Rica"
+  },
+  {
+    "code": "CU",
+    "code3": "CUB",
+    "name": "Cuba"
+  },
+  {
+    "code": "CV",
+    "code3": "CPV",
+    "name": "Cabo Verde"
+  },
+  {
+    "code": "CW",
+    "code3": "CUW",
+    "name": "Curaçao"
+  },
+  {
+    "code": "CX",
+    "code3": "CXR",
+    "name": "Christmas Island"
+  },
+  {
+    "code": "CY",
+    "code3": "CYP",
+    "name": "Cyprus"
+  },
+  {
+    "code": "CZ",
+    "code3": "CZE",
+    "name": "Czechia"
+  },
+  {
+    "code": "DE",
+    "code3": "DEU",
+    "name": "Germany"
+  },
+  {
+    "code": "DJ",
+    "code3": "DJI",
+    "name": "Djibouti"
+  },
+  {
+    "code": "DK",
+    "code3": "DNK",
+    "name": "Denmark"
+  },
+  {
+    "code": "DM",
+    "code3": "DMA",
+    "name": "Dominica"
+  },
+  {
+    "code": "DO",
+    "code3": "DOM",
+    "name": "Dominican Republic"
+  },
+  {
+    "code": "DZ",
+    "code3": "DZA",
+    "name": "Algeria"
+  },
+  {
+    "code": "EC",
+    "code3": "ECU",
+    "name": "Ecuador"
+  },
+  {
+    "code": "EE",
+    "code3": "EST",
+    "name": "Estonia"
+  },
+  {
+    "code": "EG",
+    "code3": "EGY",
+    "name": "Egypt"
+  },
+  {
+    "code": "EH",
+    "code3": "ESH",
+    "name": "Western Sahara"
+  },
+  {
+    "code": "ER",
+    "code3": "ERI",
+    "name": "Eritrea"
+  },
+  {
+    "code": "ES",
+    "code3": "ESP",
+    "name": "Spain"
+  },
+  {
+    "code": "ET",
+    "code3": "ETH",
+    "name": "Ethiopia"
+  },
+  {
+    "code": "FI",
+    "code3": "FIN",
+    "name": "Finland"
+  },
+  {
+    "code": "FJ",
+    "code3": "FJI",
+    "name": "Fiji"
+  },
+  {
+    "code": "FK",
+    "code3": "FLK",
+    "name": "Falkland Islands (Malvinas)"
+  },
+  {
+    "code": "FM",
+    "code3": "FSM",
+    "name": "Micronesia (Federated States of)"
+  },
+  {
+    "code": "FO",
+    "code3": "FRO",
+    "name": "Faroe Islands"
+  },
+  {
+    "code": "FR",
+    "code3": "FRA",
+    "name": "France"
+  },
+  {
+    "code": "GA",
+    "code3": "GAB",
+    "name": "Gabon"
+  },
+  {
+    "code": "GB",
+    "code3": "GBR",
+    "name": "United Kingdom of Great Britain and Northern Ireland"
+  },
+  {
+    "code": "GD",
+    "code3": "GRD",
+    "name": "Grenada"
+  },
+  {
+    "code": "GE",
+    "code3": "GEO",
+    "name": "Georgia"
+  },
+  {
+    "code": "GF",
+    "code3": "GUF",
+    "name": "French Guiana"
+  },
+  {
+    "code": "GG",
+    "code3": "GGY",
+    "name": "Guernsey"
+  },
+  {
+    "code": "GH",
+    "code3": "GHA",
+    "name": "Ghana"
+  },
+  {
+    "code": "GI",
+    "code3": "GIB",
+    "name": "Gibraltar"
+  },
+  {
+    "code": "GL",
+    "code3": "GRL",
+    "name": "Greenland"
+  },
+  {
+    "code": "GM",
+    "code3": "GMB",
+    "name": "Gambia"
+  },
+  {
+    "code": "GN",
+    "code3": "GIN",
+    "name": "Guinea"
+  },
+  {
+    "code": "GP",
+    "code3": "GLP",
+    "name": "Guadeloupe"
+  },
+  {
+    "code": "GQ",
+    "code3": "GNQ",
+    "name": "Equatorial Guinea"
+  },
+  {
+    "code": "GR",
+    "code3": "GRC",
+    "name": "Greece"
+  },
+  {
+    "code": "GS",
+    "code3": "SGS",
+    "name": "South Georgia and the South Sandwich Islands"
+  },
+  {
+    "code": "GT",
+    "code3": "GTM",
+    "name": "Guatemala"
+  },
+  {
+    "code": "GU",
+    "code3": "GUM",
+    "name": "Guam"
+  },
+  {
+    "code": "GW",
+    "code3": "GNB",
+    "name": "Guinea-Bissau"
+  },
+  {
+    "code": "GY",
+    "code3": "GUY",
+    "name": "Guyana"
+  },
+  {
+    "code": "HK",
+    "code3": "HKG",
+    "name": "Hong Kong"
+  },
+  {
+    "code": "HM",
+    "code3": "HMD",
+    "name": "Heard Island and McDonald Islands"
+  },
+  {
+    "code": "HN",
+    "code3": "HND",
+    "name": "Honduras"
+  },
+  {
+    "code": "HR",
+    "code3": "HRV",
+    "name": "Croatia"
+  },
+  {
+    "code": "HT",
+    "code3": "HTI",
+    "name": "Haiti"
+  },
+  {
+    "code": "HU",
+    "code3": "HUN",
+    "name": "Hungary"
+  }
+]
