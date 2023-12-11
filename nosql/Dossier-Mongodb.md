@@ -294,8 +294,8 @@
 #### 👉 Step 1: Start all of the containers 
    ```bash
    cd /
-   git clone https://github.com/EliasDeHondt/Databases2.git
-   cd Databases2/nosql/
+   git clone https://github.com/EliasDeHondt/Databases3.git
+   cd Databases3/nosql/
    docker-compose up -d
    ```
 
