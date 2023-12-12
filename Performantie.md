@@ -73,57 +73,57 @@ ORDER BY d.year;
 </br>
 
 - (Before partitionering)
- - Evidence
+  - Evidence
 
-  ![Before partitioning](/images/before-partitioning.png)
+    ![Before partitioning](/images/before-partitioning.png)
 
 - Partition creation
 
-(horizontal) Partitoning zal de tabel op delen in verschillende delen op basis van de kolom "year", door deze opdeling kan de databank gaan zoeken in een bepaald deel van de tabel in plaats van heel de tabel.
+  (horizontal) Partitoning zal de tabel op delen in verschillende delen op basis van de kolom "year", door deze opdeling kan de databank gaan zoeken in een bepaald deel van de tabel in plaats van heel de tabel.
 
-```sql
--- Partition function
-CREATE PARTITION FUNCTION [yearPartitioningFunction](INT)
-AS RANGE RIGHT FOR VALUES (2020, 2021, 2022, 2023);
-GO
+  ```sql
+  -- Partition function
+  CREATE PARTITION FUNCTION [yearPartitioningFunction](INT)
+  AS RANGE RIGHT FOR VALUES (2020, 2021, 2022, 2023);
+  GO
 
--- Partition scheme
-CREATE PARTITION SCHEME [yearPartitioningScheme] 
-AS PARTITION [yearPartitioningFunction] ALL TO ([PRIMARY]);
-GO
+  -- Partition scheme
+  CREATE PARTITION SCHEME [yearPartitioningScheme] 
+  AS PARTITION [yearPartitioningFunction] ALL TO ([PRIMARY]);
+  GO
 
---get the pk constraint
-SELECT CONSTRAINT_NAME
-FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE
-WHERE TABLE_NAME = 'dimDay' AND CONSTRAINT_NAME LIKE 'PK%';
+  --get the pk constraint
+  SELECT CONSTRAINT_NAME
+  FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE
+  WHERE TABLE_NAME = 'dimDay' AND CONSTRAINT_NAME LIKE 'PK%';
 
--- Alter the Table to Use Partition Scheme
-ALTER TABLE dbo.dimDay DROP CONSTRAINT [PK__dimDay__0A543B5612B66E17];
-GO
+  -- Alter the Table to Use Partition Scheme
+  ALTER TABLE dbo.dimDay DROP CONSTRAINT [PK__dimDay__0A543B5612B66E17];
+  GO
 
-ALTER TABLE dbo.dimDay ADD CONSTRAINT [PK__dimDay__0A543B5612B66E17] PRIMARY KEY NONCLUSTERED (dimDay_key)
-WITH (STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, 
-      ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY];
-GO
+  ALTER TABLE dbo.dimDay ADD CONSTRAINT [PK__dimDay__0A543B5612B66E17] PRIMARY KEY NONCLUSTERED (dimDay_key)
+  WITH (STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, 
+        ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY];
+  GO
 
--- Create Clustered Index using the partition scheme
-CREATE CLUSTERED INDEX IX__dimDay_year ON dbo.dimDay (year)
-WITH (STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, 
-      ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) 
-ON [yearPartitioningScheme](year);
-GO
+  -- Create Clustered Index using the partition scheme
+  CREATE CLUSTERED INDEX IX__dimDay_year ON dbo.dimDay (year)
+  WITH (STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, 
+        ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) 
+  ON [yearPartitioningScheme](year);
+  GO
 
---drop partition and table
-DROP TABLE dimDay
-drop partition scheme yearPartitioningScheme
-drop partition function yearPartitioningFunction
-```
+  --drop partition and table
+  DROP TABLE dimDay
+  drop partition scheme yearPartitioningScheme
+  drop partition function yearPartitioningFunction
+  ```
 
 - (After partitionering)
 
-  - Evidence
+  - Evidence
 
-![After partitioning](/images/after-partitioning.png)
+    ![After partitioning](/images/after-partitioning.png)
 
 ### Column storage
 Kolomopslag herstructureert de gegevensorganisatie door informatie op te slaan in kolommen in plaats van rijen, waardoor de prestaties van zoekopdrachten worden verbeterd, vooral voor analyses.
@@ -144,26 +144,26 @@ GROUP BY u.experience_level;
 | Professional    | 3:27:00        |
 
 - (Before column storage)
-  - evidence
+  - Evidence
 
     ![Before Column storage](/images/before-columnstorage.png)
 
-- column storage creation
+- Column storage creation
 
-We doen dit op dimUser omdat dit een grote tabel is met historiek, hierbij werkt column storage optimaal.
+  We doen dit op dimUser omdat dit een grote tabel is met historiek, hierbij werkt column storage optimaal.
 
-```sql
--- Drop the primary key constraint on the dimUser table
-ALTER TABLE dimUser
-DROP CONSTRAINT PK__dimUser__9F70C0BE8CDB6B63;
+  ```sql
+  -- Drop the primary key constraint on the dimUser table
+  ALTER TABLE dimUser
+  DROP CONSTRAINT PK__dimUser__9F70C0BE8CDB6B63;
 
--- Create a clustered Columnstore Index
-CREATE CLUSTERED COLUMNSTORE INDEX IX_Columnstore_dimUser
-ON dimUser;
-```
+  -- Create a clustered Columnstore Index
+  CREATE CLUSTERED COLUMNSTORE INDEX IX_Columnstore_dimUser
+  ON dimUser;
+  ```
 
 - (After column storage)
-  - evidence
+  - Evidence
 
     ![Before Column storage](/images/after-columnstorage.png)
 
