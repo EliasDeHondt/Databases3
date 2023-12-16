@@ -213,3 +213,21 @@ Compressie minimaliseert de opslagvereisten door de gegevensgrootte te gebruiken
   - Evidence
 
     ![After Compressie](/images/after-compressie.png)
+
+
+## Conclusion
+
+- Index:
+  - **Waarom:** De index zorgt ervoor dat de databank niet heel de tabel moet doorzoeken maar enkel de index. Hierdoor zal de databank sneller de gegevens kunnen ophalen. En een NONCLUSTERED index is het beste omdat het efficiënt zoekopdrachten kan uitvoeren zonder de fysieke volgorde van de tabelgegevens te wijzigen.
+  - **Before:** 0.5s
+  - **After:** 0.2s
+  - **Resultaat:** 60% sneller
+
+- Partitionering:
+  - **Waarom:** Partitionering verdeelt grote databasetabellen in kleinere door bijvoorbeeld een tabel op te splitsen per jaar. Hierdoor zal de databank sneller de gegevens kunnen ophalen. (Kan ook op andere manieren met seizoenen, maanden, ...)
+
+- Column storage:
+  - **Waarom:** Kolomopslag herstructureert de gegevensorganisatie door informatie op te slaan in kolommen in plaats van rijen, waardoor de prestaties van zoekopdrachten worden verbeterd, vooral voor analyses. Hierdoor zal de databank sneller de gegevens kunnen ophalen.
+
+- Compressie:
+  - **Waarom:** Compressie minimaliseert de opslagvereisten door de gegevensgrootte te gebruiken met behulp van technieken zoals run-length-codering, woordenboekcodering of gzip-compressie. Hierdoor zal de databank sneller de gegevens kunnen ophalen.
