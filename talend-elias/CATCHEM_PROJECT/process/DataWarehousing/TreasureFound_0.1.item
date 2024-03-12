@@ -167,7 +167,7 @@
   </node>
   <node componentName="tJavaRow" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="544" posY="320">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tJavaRow_1" show="false"/>
-    <elementParameter field="MEMO_JAVA" name="CODE" value="// Van Elias De Hondt :-)&#xA;Date logTime = input_row.log_time;&#xA;Date sessionStart = input_row.session_start;&#xA;long diffInMillis = logTime.getTime() - sessionStart.getTime();&#xA;Date diffDate = new Date(diffInMillis);&#xA;&#xA;output_row.durationQuest = diffDate;&#xA;output_row.treasure_id = input_row.treasure_id;&#xA;output_row.log_time = input_row.log_time;&#xA;output_row.hunter_id = input_row.hunter_id;"/>
+    <elementParameter field="MEMO_JAVA" name="CODE" value="// Author Elias De Hondt :-)&#xA;Date logTime = input_row.log_time;&#xA;Date sessionStart = input_row.session_start;&#xA;long diffInMillis = logTime.getTime() - sessionStart.getTime();&#xA;Date diffDate = new Date(diffInMillis);&#xA;&#xA;output_row.durationQuest = diffDate;&#xA;output_row.treasure_id = input_row.treasure_id;&#xA;output_row.log_time = input_row.log_time;&#xA;output_row.hunter_id = input_row.hunter_id;"/>
     <elementParameter field="MEMO_IMPORT" name="IMPORT" value="//import java.util.List;"/>
     <elementParameter field="TEXT" name="LABEL" value="Subtract Date"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
@@ -561,7 +561,7 @@
   </node>
   <node componentName="tJavaRow" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="832" posY="224">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tJavaRow_2" show="false"/>
-    <elementParameter field="MEMO_JAVA" name="CODE" value="// Van Elias De Hondt&#xA;if (input_row.weatherCode == 200) output_row.dimRain_key = 1;&#xA;else if (input_row.weatherCode == 300) output_row.dimRain_key = 1;&#xA;else if (input_row.weatherCode == 500) output_row.dimRain_key = 1;&#xA;else if (input_row.weatherCode == 600) output_row.dimRain_key = 2;&#xA;else if (input_row.weatherCode == 701) output_row.dimRain_key = 2;&#xA;else if (input_row.weatherCode == 741) output_row.dimRain_key = 2;&#xA;else if (input_row.weatherCode == 781) output_row.dimRain_key = 2;&#xA;else if (input_row.weatherCode == 800) output_row.dimRain_key = 2;&#xA;else if (input_row.weatherCode == 801) output_row.dimRain_key = 2;&#xA;else output_row.dimRain_key = 0;&#xA;&#xA;output_row.dateRecord = input_row.dateRecord;"/>
+    <elementParameter field="MEMO_JAVA" name="CODE" value="// Author Elias De Hondt&#xA;if (input_row.weatherCode == 200) output_row.dimRain_key = 1;&#xA;else if (input_row.weatherCode == 300) output_row.dimRain_key = 1;&#xA;else if (input_row.weatherCode == 500) output_row.dimRain_key = 1;&#xA;else if (input_row.weatherCode == 600) output_row.dimRain_key = 2;&#xA;else if (input_row.weatherCode == 701) output_row.dimRain_key = 2;&#xA;else if (input_row.weatherCode == 741) output_row.dimRain_key = 2;&#xA;else if (input_row.weatherCode == 781) output_row.dimRain_key = 2;&#xA;else if (input_row.weatherCode == 800) output_row.dimRain_key = 2;&#xA;else if (input_row.weatherCode == 801) output_row.dimRain_key = 2;&#xA;else output_row.dimRain_key = 0;&#xA;&#xA;output_row.dateRecord = input_row.dateRecord;"/>
     <elementParameter field="MEMO_IMPORT" name="IMPORT" value="//import java.util.List;"/>
     <elementParameter field="TEXT" name="LABEL" value="Whether Type"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>

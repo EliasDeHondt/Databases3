@@ -1,3 +1,9 @@
+/**
+ * @author Elias De Hondt
+ * @see https://eliasdh.com
+ * @since 01/01/2020
+ */
+
 rs.initiate({
   _id: "rs-shard-03",
   version: 1,
